@@ -194,7 +194,7 @@ To check the operation, you can access the _Adminer_ panel at http://localhost:1
 
 ## Contact
 
-Vicenç Font - vfont@uoc.edu
+xxxxx - xxxxx@uoc.edu
 
 <p align="right">(<a href="#top">ir arriba</a>)</p>
 
