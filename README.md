@@ -114,7 +114,7 @@ spring-2025
 
 ### Basic infrastructure (dockers)
 
-* Download the code in ZIP format or just clone the <a href="https://github.com/UOC-SA-SPRING-2025/spring-2025">autumn2024</a> repository in the working folder (_spring-2025_ if the recommendation has been followed).
+* Download the code in ZIP format or just clone the <a href="https://github.com/UOC-SA-SPRING-2025/spring-2025">spring2025</a> repository in the working folder (_spring-2025_ if the recommendation has been followed).
 
 * From the work folder, run the command:
 
